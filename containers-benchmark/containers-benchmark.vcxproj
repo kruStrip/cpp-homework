@@ -24,6 +24,7 @@
     <ProjectGuid>{25cc82b1-392b-480c-9b47-6e0b4a54d69f}</ProjectGuid>
     <RootNamespace>containers-benchmark</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>containers-benchmark 1</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
